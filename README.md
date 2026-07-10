@@ -2,6 +2,7 @@
 Python workflow to extract EMG onsets/offsets from BDF files: align markers, auto-detect activity, visualize, and manually correct.
 
 **Pipeline**
+
 A Python pipeline for processing raw BDF recordings to extract manually validated EMG onsets/offsets. This workflow includes:
 
 - Response-marker timing correction (alignment with EMG data)
