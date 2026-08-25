@@ -28,7 +28,7 @@ The workflow consists of three main steps:
 
 ## EMG toolbox
 
-The EMG processing functions used in this repository are largely based on the **MyOnset** toolbox developed by Laurent Spieser, with additional custom adaptations for the present processing pipeline.
+The EMG processing functions used in this repository are largely based on the **MyOnset** toolbox developed by L. Spieser, with additional custom adaptations for the present processing pipeline.
 
 Original MyOnset toolbox:
 https://github.com/lspieser/myonset
